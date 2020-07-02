@@ -1,6 +1,6 @@
 import React from 'react';
 import Tutorial from './Tutorial'
-import defaultDestination from './defaultDestination'
+import defaultObstacles from './defaultObstacles'
 
 class Breadth extends React.Component{
   constructor(props) {
@@ -27,7 +27,7 @@ class Breadth extends React.Component{
       startHexCoord: { q: 8, r: 7},
       gridSize: { x: 17, y: 15 },
       startHexDrag: false,
-      obstacleArray: defaultDestination,
+      obstacleArray: defaultObstacles,
       destination: {},
       showTutorial: false,
       tutorialPageNumber: 1

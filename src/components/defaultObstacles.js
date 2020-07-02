@@ -1,4 +1,4 @@
-const defaultDestination = [
+const defaultObstacles = [
   {
     "q": 0,
     "r": 0
@@ -368,4 +368,4 @@ const defaultDestination = [
     "r": 7
   }
 ];
-export default defaultDestination;
+export default defaultObstacles;
