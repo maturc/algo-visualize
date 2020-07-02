@@ -3,8 +3,8 @@
 ##### Preview of the website: [video preview](https://streamable.com/7dwud1)
 ![preview1](/public/preview1.png)
 ![preview2](/public/preview2.png)
+The application also features a tutorial:
 ![preview3](/public/preview3.png)
-The application also features a tutorial.
 
 ##### How to start the application:
  * Clone this repository
