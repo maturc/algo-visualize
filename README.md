@@ -1,7 +1,6 @@
 **This is a website built with the react framework that visualizes the breadth first search pathfinding algorithm. More algorithms coming in the future.**
 
-##### Preview of the website:
-##### [video preview](https://streamable.com/7dwud1)
+##### Preview of the website: [video preview](https://streamable.com/7dwud1)
 ![preview](/public/preview.png)
 
 How to start the application:
