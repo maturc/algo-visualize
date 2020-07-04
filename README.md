@@ -1,10 +1,13 @@
 **This is a website built with the react framework that visualizes the breadth first search pathfinding algorithm. More algorithms coming in the future.**
 
-##### Preview of the website: [video preview](https://streamable.com/7dwud1)
+##### Preview of the website:
+**[Link to the webapp](https://maturc.github.io/algo-visualize/index)**
+
 ![preview1](/public/preview1.png)
 ![preview2](/public/preview2.png)
 The application also features a tutorial:
 ![preview3](/public/preview3.png)
+##### [video preview](https://streamable.com/7dwud1)
 
 ##### How to start the application:
  * Clone this repository
